@@ -1,0 +1,15 @@
+Locales['en'] = {
+	['ooc_help'] = 'Out of Character Message',
+	['ooc_prefix'] = 'OOC | %s',
+	['twt_help'] = 'Send a Tweet',
+	['twt_prefix'] = '^0[^4Twitter^0] (^5@%s^0)',
+	['me_help'] = 'Personal Action',
+	['me_prefix'] = 'Moi | %s',
+	['do_help'] = 'RP information',
+	['do_prefix'] = 'faire | %s',
+	['news_help'] = 'Public News Announcement',
+	['news_prefix'] = 'News | %s',
+	['ooc_argument_name'] = 'Message',
+	['ooc_argument_help'] = 'The Message',
+	['ooc_unknown_command'] = '^3%s^0 is not a valid command.',
+}
