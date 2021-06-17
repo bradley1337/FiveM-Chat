@@ -1,5 +1,5 @@
 # FiveM-Chat 
-###### Simple chat script which has basic comamnds and blacklisted words. - This chat will get better along the way. 
+###### A lightweight chat script which has basic comamnds and blacklisted words. - This chat will get better along the way. 
 
 ### Commands included!
 
